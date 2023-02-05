@@ -15,6 +15,7 @@ nav{
 	width: 100%;
 	height: auto;
 	color: #fff;
+	background-color: #06a809;/*this change is mkae under the tasting cherry-pic*/
 	z-index: 999;
 }
 .upper_navbar{
